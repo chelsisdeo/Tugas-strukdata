@@ -5,6 +5,8 @@
 ## Dasar Teori
 Tipe data merupakan tipe-tipe data yang memiliki fungsi masing-masing dberdasarkan nama dan kegunaan nya di bidang masing-masing. Tipe data berguna agar kompiler dapat mengetahui tipe data apa yang akan di gunakan. Adapun beberapa tipe data adalah sebagai berikut,
 
+### Guided
+
 ### 1.Tipe data primitif 
 adalah salah satu tipe data yang paling mendasar dalam pemrograman terutama c++. 
 macam-macam tipe primitif di antaranya,
@@ -35,10 +37,10 @@ elemen-elemen yang alokasi memorinya dilakukan otomatis dan
 bersebelahan
 - Map -> data map adalah data yang seperti kamus yang mana di dalamnya terdapat kata, yang setiap kata memiliki definisi atau daftar alamat dimana setiap nama memiliki daftar yang terkait.
 
-# Guided 
+# Unguided 
 
 ### 1. Buatlah program menggunakan tipe data primitif minimal dua fungsi dan bebas.
-c++
+```c++
 #include <iostream>
 using namespace std;
 
@@ -83,6 +85,7 @@ int main() {
 
     return 0;
 }
+```
 
 
 ### output 
