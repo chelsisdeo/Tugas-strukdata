@@ -188,7 +188,7 @@ pengelolaan dan manipulasi data dalam program.
 
 ### 3. Buat dan jelaskan program menggunakan fungsi map dan jelaskan perbedaan dari array dengan map
 
- c++
+ ```c++
 #include <map>
 
 int main() {
@@ -225,6 +225,7 @@ int main() {
 
     return 0;
 }
+```
 
 
 ### output 
