@@ -101,7 +101,7 @@ bahasa pemrograman,compiler dan sistem operasinya yang mana setiap tipe data mem
 berbeda-beda
 
 ### 2. Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya
- c++
+ ```c++
 /// CONTOH PROGRAM 
 
 #include <stdio.h>
@@ -156,6 +156,7 @@ printf("Umur: %d\n", mhs2.age);
 
 return 0;
 }
+```
 
 
 
