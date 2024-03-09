@@ -5,7 +5,7 @@
 ## Dasar Teori
 Tipe data merupakan tipe-tipe data yang memiliki fungsi masing-masing dberdasarkan nama dan kegunaan nya di bidang masing-masing. Tipe data berguna agar kompiler dapat mengetahui tipe data apa yang akan di gunakan. Adapun beberapa tipe data adalah sebagai berikut,
 
-### Guided
+## Guided
 
 ### 1.Tipe data primitif 
 adalah salah satu tipe data yang paling mendasar dalam pemrograman terutama c++. 
